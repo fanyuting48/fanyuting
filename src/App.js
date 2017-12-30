@@ -9,8 +9,7 @@ import Palm1 from './Palm1';
 import Stick from './Stick';
 import Ufocat from './Ufocat';
 import Ufocat0 from './Ufocat0';
-import Wave from './Wave';
-import Wave1 from './Wave1';
+
 //my img
 //import backGround from './images/background.png';
 
