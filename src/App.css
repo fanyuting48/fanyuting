@@ -1,0 +1,10 @@
+body {
+  background-color: rgba(120,180,200,0.9);
+  background-image: url(./images/background.png);
+  background-repeat: no-repeat;
+}
+
+.timelineContainer{
+  position: absolute;
+  width: 90vw;
+}
